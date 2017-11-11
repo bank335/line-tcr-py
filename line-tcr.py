@@ -39,8 +39,6 @@ ke.login(qr=True)
 ku = LINETCR.LINE()
 ku.login(qr=True)
 
-cl
-
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
